@@ -1,4 +1,4 @@
-# PacManGP-
+# PacManGP
 Genetic Programing-based Pac-Man controller
 
 Built with Python.
